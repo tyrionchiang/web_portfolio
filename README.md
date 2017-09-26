@@ -1,7 +1,4 @@
 # Web portfolio
-<html>
-<p>Web page <a href="http://htmlpreview.github.io/?https://github.com/tyrionchiang/web_portfolio/blob/master/index.html" target="_blank">Demo</a></p>
-</html>
 
 ![Example](https://github.com/tyrionchiang/web_portfolio/blob/master/img/preview/about.jpg)
 
